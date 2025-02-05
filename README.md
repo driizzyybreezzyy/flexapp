@@ -14,7 +14,7 @@ This is a simple web-based yoga class enrollment system built using **React + Vi
 ## 📸 Screenshots
 
 ### **1️⃣ Yoga Class Admission Form**
-![Yoga Form](assets/yoga_form.jpg)
+![Yoga Form]([assets/yoga_form.jpg](https://github.com/driizzyybreezzyy/flexapp/blob/85bf214184df43ecac28bf49ed24f267e2274f78/images/WhatsApp%20Image%202025-02-05%20at%2003.12.24_bfad5049.jpg))
 
 ### **2️⃣ MySQL Database (phpMyAdmin)**
 ![Database View](assets/phpmyadmin.jpg)
